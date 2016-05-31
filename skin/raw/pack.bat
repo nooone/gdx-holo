@@ -1,0 +1,1 @@
+java -jar runnable-texturepacker.jar . ../result/ uiskin.atlas pack.json
